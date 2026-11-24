@@ -1,0 +1,13 @@
+# Goal
+string mode
+string power_mode
+---
+# Result
+float32 total_area_cleaned_m2
+float32 elapsed_time_sec
+string completion_code
+---
+# Feedback
+string current_room
+float32 completion_percentage
+float32 battery_level

@@ -1,0 +1,9 @@
+# Request
+string floor_id
+---
+# Response
+bool success
+string message
+float32 initial_x
+float32 initial_y
+float32 initial_theta
